@@ -1,0 +1,9 @@
+FATORIAL
+
+int fat(int N)
+
+{
+  if(N==0) return 1/
+  int x = fato(N-1);
+  return N*x;
+}
